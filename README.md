@@ -2,9 +2,7 @@
 
 This is a basic Hello World program. I created this to practice and demonstrate my knowledge of how to use Visual Studio Code and GitHub together.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+Here's a walkthrough of my project: [Software Demo Video](https://youtu.be/-fY2tGQ8IKw)
 
 # Development Environment
 
